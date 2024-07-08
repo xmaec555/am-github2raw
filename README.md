@@ -5,7 +5,7 @@
 - 部署视频教程：[小白教程](https://www.youtube.com/watch?v=f9hDJCqAEGA)
 - 视频教程：[所有教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF)
 
-- AM科技官网：[https://gw.809098.xyz](官网)
+- AM科技官网：[https://am.809098.xyz](官网)
 - YouTube：[https://youtube.com/@AM_CLUB](AM科技)
 - Telegram：[https://t.me/AM_CLUBS](AM_CLUBS)
 - Github：[https://github.com/ansoncloud8](ansoncloud8)
