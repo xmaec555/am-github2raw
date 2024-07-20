@@ -140,5 +140,11 @@ GitHub个人访问令牌可以在GitHub设置中(点个人头像,点击Settings)
 | URL       | https://github.com/ansoncloud8/am-github2raw/blob/main/README.md | ❌    | 主页伪装                                                     |
 | ERROR     | 无法获取文件，检查路径或TOKEN是否正确。                     | ❌    | 自定义错误提示                                               |
 
-# 感谢
-[cmliu]
+ # 
+<details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
+*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
+  
+- **TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
+  
+</details>
+
